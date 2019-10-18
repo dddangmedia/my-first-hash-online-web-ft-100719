@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {:v <= "t"}
+  my_hash = {:v => "t"}
   
 end
 
